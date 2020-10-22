@@ -1,3 +1,3 @@
-# Catch the internet troll with the power of SQL!
+# Catch the forum troll with the power of SQL!
 
-<img src="https://tenor.com/view/hackerman-break-computer-programming-hacking-gif-7263541" />
+<img src="https://media.tenor.com/images/f9e5fcc3d75d58e0cec118cedad0c924/tenor.gif" />
