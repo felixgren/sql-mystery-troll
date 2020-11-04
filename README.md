@@ -1,7 +1,16 @@
+<img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/32/1470824821-spying-gif.gif" width="100%" />
+
 # Catch the troll with the power of SQL!
 
-<img src="https://media.tenor.com/images/f9e5fcc3d75d58e0cec118cedad0c924/tenor.gif" />
-
-
 Somebody has left a nasty comment on a forum. Your job is to find out who it was. 
-Start of in the comments and see if it leads you somewhere.
+Start off in the comments and see if it leads you somewhere...
+
+## Database structure
+
+<img src="https://raw.githubusercontent.com/felixgren/sql-mystery-troll/main/db-design.png" width="100%" />
+
+### Authors
+
+- [Jon](https://github.com/trilisen)
+- [Aseel](https://github.com/Aseel88)
+- [Felix](https://github.com/felixgren)
