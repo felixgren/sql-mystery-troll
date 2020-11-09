@@ -23,3 +23,7 @@ Start off in the comments and see if it leads you somewhere...
 - [Jon](https://github.com/trilisen)
 - [Aseel](https://github.com/Aseel88)
 - [Felix](https://github.com/felixgren)
+
+## License
+
+MIT License. For more details https://github.com/felixgren/sql-mystery-troll/blob/main/LICENSE
