@@ -9,7 +9,7 @@ Somebody has left a nasty comment on a forum. Your job is to find out who it was
 Start off in the comments and see if it leads you somewhere...
 
 ## Instructions
-<b>First of all:</b>
+
 1. Clone or fork this repository to your computer.
 2. Open the ```mysterytroll.sqlite```-file with TablePlus.
 3. Start working on the queries until you reach the solution of the mystery .
